@@ -1,0 +1,13 @@
+button{
+    display: block;
+    margin: auto;
+    border: 40pc;
+    font-size: xx-large;
+    max-width: 100%;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+button:hover {
+    background-color: rgb(62, 143, 116);
+}
